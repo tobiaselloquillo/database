@@ -52,7 +52,7 @@ INSERT INTO cliente VALUES ('203', 'New Delhi Sports', '91-11903338','11368 Chan
 'New Delhi', NULL, 'India', NULL,'BUENO', '11', '4', NULL);
 INSERT INTO cliente VALUES ('204', 'Ladysport', '1-206-104-0111','281 Queen Street',
 'Seattle', 'Washington', 'US', NULL,'EXCELENTE', '11', '1', NULL);
-INSERT INTO cliente VALUES ('205', 'Kim''s Sporting BUENOs', '852-3693888','15 Henessey Road',
+INSERT INTO cliente VALUES ('205', 'Kims Sporting BUENOs', '852-3693888','15 Henessey Road',
 'Hong Kong', NULL, NULL, NULL,'EXCELENTE', '11', '4', NULL);
 INSERT INTO cliente VALUES ('206', 'Sportique', '33-93425722253','172 Rue de Place',
 'Cannes', NULL, 'France', NULL,'EXCELENTE', '13', '5', NULL);
@@ -65,7 +65,7 @@ INSERT INTO cliente VALUES ('209', 'Beisbol Si!', '809-352666','415 Playa Del Ma
  'San Pedro de Macoris', NULL, 'Dominican Republic', NULL, 'EXCELENTE', '11', '6', NULL);
 INSERT INTO cliente VALUES ('210', 'Futbol Sonora', '52-404555','5 Via Saguaro', 'Nogales',
 NULL, 'Mexico', NULL,'EXCELENTE', '12', '2', NULL);
-INSERT INTO cliente VALUES ('211', 'Helmut''s Sports', '42-2111222','45 Modrany', 'Prague',
+INSERT INTO cliente VALUES ('211', 'Helmuts Sports', '42-2111222','45 Modrany', 'Prague',
 NULL, 'Czechoslovakia', NULL,'EXCELENTE', '11', '5', NULL);
 INSERT INTO cliente VALUES ('212', 'Hamada Sport', '20-31209222','47A Corniche', 
 'Alexandria', NULL, 'Egypt', NULL,'EXCELENTE', '13', '3', NULL);
@@ -75,4 +75,5 @@ INSERT INTO cliente VALUES ('214', 'Sports Retail', '1-716-555-7777','115 Main S
 'Buffalo', 'NY', 'US', NULL, 'MALO', '11', '1', NULL);
 INSERT INTO cliente VALUES ('215', 'Sports Russia', '7-0953892444','7070 Yekatamina',
 'Saint Petersburg', NULL, 'Russia', NULL,'MALO', '11', '5', NULL);
+
 COMMIT;
